@@ -3,6 +3,3 @@ for x in num :
     if x %2==0 :
         num.remove(x)
 print(num)
-
-
-
